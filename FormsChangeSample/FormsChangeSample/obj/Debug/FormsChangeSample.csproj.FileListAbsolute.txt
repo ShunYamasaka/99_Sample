@@ -1,0 +1,11 @@
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\bin\Debug\FormsChangeSample.exe.config
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\bin\Debug\FormsChangeSample.exe
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\bin\Debug\FormsChangeSample.pdb
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.csprojAssemblyReference.cache
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.Form1.resources
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.Properties.Resources.resources
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.UserControl1.resources
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.csproj.GenerateResource.cache
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.exe
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.pdb
+C:\Users\118sy\Desktop\ツール作成\99_Sample\FormsChangeSample\FormsChangeSample\obj\Debug\FormsChangeSample.UserControl2.resources
