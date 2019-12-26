@@ -22,5 +22,12 @@ namespace FormsChangeSample
             Form1.ctr1.Visible = false;
             Form1.ctr2.Visible = true;
         }
+
+        private void GridView_Click(object sender, EventArgs e)
+        {
+            Form1.ctr1.Visible = false;
+            //Form1.ctr2.Visible = false;
+            Form1.ctr3.Visible = true;
+        }
     }
 }

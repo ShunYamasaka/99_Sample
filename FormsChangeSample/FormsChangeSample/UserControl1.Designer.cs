@@ -30,6 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.GridView = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -51,10 +52,21 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // GridView
+            // 
+            this.GridView.Location = new System.Drawing.Point(341, 341);
+            this.GridView.Name = "GridView";
+            this.GridView.Size = new System.Drawing.Size(75, 23);
+            this.GridView.TabIndex = 2;
+            this.GridView.Text = "GridView";
+            this.GridView.UseVisualStyleBackColor = true;
+            this.GridView.Click += new System.EventHandler(this.GridView_Click);
+            // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.GridView);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Name = "UserControl1";
@@ -68,5 +80,6 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button GridView;
     }
 }
